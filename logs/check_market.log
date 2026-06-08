@@ -1,0 +1,6 @@
+2026-06-08 15:19:16 | INFO | bot.orders | Order placement started | summary={'symbol': 'BTCUSDT', 'side': 'BUY', 'order_type': 'MARKET', 'quantity': '0.001'}
+2026-06-08 15:19:16 | INFO | bot.orders | Dry-run order request | params={'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'MARKET', 'quantity': '0.001', 'newOrderRespType': 'RESULT'}
+2026-06-08 15:19:16 | INFO | bot.orders | Order placement completed | orderId=DRY-RUN status=DRY_RUN executedQty=0
+2026-06-08 15:52:00 | INFO | bot.orders | Order placement started | summary={'symbol': 'BTCUSDT', 'side': 'BUY', 'order_type': 'MARKET', 'quantity': '0.001'}
+2026-06-08 15:52:00 | INFO | bot.orders | Dry-run order request | params={'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'MARKET', 'quantity': '0.001', 'newOrderRespType': 'RESULT'}
+2026-06-08 15:52:00 | INFO | bot.orders | Order placement completed | orderId=DRY-RUN status=DRY_RUN executedQty=0

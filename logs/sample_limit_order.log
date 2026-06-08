@@ -1,0 +1,4 @@
+2026-06-08 15:31:00 | INFO | bot.orders | Order placement started | summary={'symbol': 'BTCUSDT', 'side': 'SELL', 'order_type': 'LIMIT', 'quantity': '0.001', 'price': '120000'}
+2026-06-08 15:31:00 | INFO | bot.orders | Dry-run order request | params={'symbol': 'BTCUSDT', 'side': 'SELL', 'type': 'LIMIT', 'quantity': '0.001', 'newOrderRespType': 'RESULT', 'price': '120000', 'timeInForce': 'GTC'}
+2026-06-08 15:31:00 | INFO | bot.orders | Order placement completed | orderId=DRY-RUN status=DRY_RUN executedQty=0
+
